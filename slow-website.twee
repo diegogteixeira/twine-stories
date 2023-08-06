@@ -264,7 +264,7 @@ You wait for a while, but no output appears. Looks like there aren't any DNS que
 ::Tcpdump browser
 
 <p>
-You leave <code>tcpdump</code> open, and open your browser. You've been thinking of buying a guitar, so you open the guitar seller's website. It starts loading really slowly
+You leave <code>tcpdump</code> open, and open your browser. You've been thinking of buying a guitar, so you open the guitar seller's website. It starts loading really slowly.
 </p>
 
 <div class="nav">
@@ -336,7 +336,7 @@ So far you know that:
 </p>
 
 
-<<ask "Given what you know, what do you think you could to do fix the problem?" "$how_to_fix"  "Fix the problem">>
+<<ask "Given what you know, what do you think you could do to fix the problem?" "$how_to_fix"  "Fix the problem">>
 
 :: Fix the problem
 
